@@ -1,0 +1,32 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, rgb(8, 45, 84), rgb(0, 0, 0));
+}
+
+img{
+  width: 200px;
+  height: 300px;
+}
+
+h4{
+  text-decoration: underline;
+}
+
+table{
+  border: 1px solid;
+  width: 100%;
+  text-align: center;
+}
+
+#titulos{
+  border: 1px solid;
+}
+
+th{
+  font-weight: 900;
+}
+
+td{
+  font-weight: 400;
+}
